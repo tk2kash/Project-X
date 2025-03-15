@@ -1,0 +1,6 @@
+.nav{
+	transition: transform 1s;
+}
+.navbar{
+	transform: translateX(-100%);
+}
