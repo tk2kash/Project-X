@@ -22,7 +22,7 @@ run the script "npm run dev"
 
 this will run the client and server together
 
-##Database
+## Database
 
 Database out of date
 To set to your own database simply change the Mongo_URl in env to your own cluster.
