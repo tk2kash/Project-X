@@ -1,7 +1,7 @@
 
 ## Team Project Management Web Application 
-that has simplistic functions to support tasks such as allocation of tasks and members, progression
-charts, scheduling meetings through the calendar, has chat room component, a scrum board,
+project management app that has simplistic functions to support tasks such as allocation of tasks and members, 
+progression charts, scheduling meetings through the calendar, has chat room component, a scrum board,
 and has customisable features such as tasks box, projects box, and user profile. 
 
 ## Package installation 
