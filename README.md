@@ -1,15 +1,22 @@
 
 ## Team Project Management Web Application 
+
 project management app that has simplistic functions to support tasks such as allocation of tasks and members, 
 progression charts, scheduling meetings through the calendar, has chat room component, a scrum board,
 and has customisable features such as tasks box, projects box, and user profile. 
 
 ## Package installation 
+
 move to the client folder and install the packages using npm then server folder
+
 cd client
+
 npm install
+
 cd ..
+
 cd server
+
 npm install
 
 ## Run Server and client 
@@ -24,6 +31,7 @@ this will run the client and server together
 
 Database out of date
 To set to your own database simply change the Mongo_URl in env to your own cluster.
+
 MONGO_URL = "your_url"
 
 ## Test account 
