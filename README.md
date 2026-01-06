@@ -30,9 +30,17 @@ this will run the client and server together
 ## Database
 
 Database out of date
-To set to your own database simply change the Mongo_URl in env to your own cluster.
+To set to your own database simply create a .env. Set the Mongo_URl in env to your own cluster.
+SET a port for the database setup.
+ADD a secretcode for encryption.
+
+example:
 
 MONGO_URL = "your_url"
+JWT_SECRET = "SomethingRandom"
+PORT = 6011
+
+
 
 ## Test account 
 
